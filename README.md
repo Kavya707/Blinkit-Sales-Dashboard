@@ -1,1 +1,3 @@
-Created an interactive sales dashboard for Blinkit using SQL and BI tools. The dashboard visualizes key metrics like total sales and revenue trends, providing insights for data-driven decision-making.
+An Interactive SQL Project To Analyse Sales Data Of Blinkit
+
+Using SQL, DAX, POWER BI, POWERQUERY
