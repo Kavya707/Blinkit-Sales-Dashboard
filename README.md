@@ -1,1 +1,1 @@
-This is a blinkit sales dashboard project that i made with power bi 
+Created an interactive sales dashboard for Blinkit using SQL and BI tools. The dashboard visualizes key metrics like total sales and revenue trends, providing insights for data-driven decision-making.
