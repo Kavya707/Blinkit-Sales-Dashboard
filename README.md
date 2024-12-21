@@ -15,3 +15,7 @@ Developed an interactive sales dashboard using Power BI to analyze Blinkit's sal
 - Charts Development and Formatting
 - Dashboard / Report Development
 - Insights Generation
+
+- ## Dashboard
+
+
