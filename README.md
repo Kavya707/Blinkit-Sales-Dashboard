@@ -1,3 +1,2 @@
-An Interactive SQL Project To Analyse Sales Data Of Blinkit
+#Blinkit Sales Analysis (Interactive Dashbard Created Using Power Bi)
 
-Using sql, dax, power bi, powerquery
