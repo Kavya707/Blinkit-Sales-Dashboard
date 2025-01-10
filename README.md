@@ -20,5 +20,14 @@ Developed an interactive sales dashboard using Power BI to analyze Blinkit's sal
 
 ![Blinkit_Sales_Dashboard](https://github.com/user-attachments/assets/fc19fcf7-1259-4467-a789-d3fb2cfcb249)
 
+## Objectives Attained During The Project
+
+- Power BI
+- Ms Excel
+- Python
+- Dax Queries
+- Figma
+  
+
 
 
