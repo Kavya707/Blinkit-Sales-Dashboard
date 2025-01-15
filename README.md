@@ -23,10 +23,11 @@ Developed an interactive sales dashboard using Power BI to analyze Blinkit's sal
 ## Technology Used During The Project
 
 - Power BI
-- Ms Excel
-- Python
-- Dax Queries
-- Figma
+- Ms Excel / Power Query
+- SQL
+- DAX Queries
+  
+
   
 
 
