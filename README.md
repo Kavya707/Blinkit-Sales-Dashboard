@@ -43,15 +43,15 @@ The dashboard includes:
 
 ## Features
 
-Real-time KPIs for sales, ratings, and items sold.
+-> Real-time KPIs for sales, ratings, and items sold.
 
-Interactive filters for detailed drill-through analysis.
+-> Interactive filters for detailed drill-through analysis.
 
-Geographic insights into outlet performance across tiers.
+-> Geographic insights into outlet performance across tiers.
 
-Trends in outlet establishment and customer preferences.
+-> Trends in outlet establishment and customer preferences.
 
-Detailed comparisons by outlet type, size, and location.
+-> Detailed comparisons by outlet type, size, and location.
 
 ## Use Cases
 
@@ -73,21 +73,16 @@ Challenge: Creating dynamic measures for advanced insights.
 
 ## Future Improvements 
 
-Integrate real-time data for live updates.
-
-Expand geographic analysis with more granular filters.
-
-Add predictive analytics for sales forecasting.
+-> Integrate real-time data for live updates.
+-> Expand geographic analysis with more granular filters.
+-> Add predictive analytics for sales forecasting.
 
 
 ## Technology Used
 
 - Power BI: For dashboard creation and visualization.
-- 
 - Microsoft Excel / Power Query: For data exploration and preparation.
-- 
 - SQL: For querying and transforming raw data.
-- 
 - DAX: For implementing advanced calculations.
   
 
