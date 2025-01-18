@@ -66,10 +66,11 @@ This dashboard supports various stakeholders:
 # Challenges Faced and Solutions
 
 - Challenge: Handling inconsistent and missing data
-- Solution : Used Power Query for data cleaning and imputation.
+- > Solution : Used Power Query for data cleaning and imputation.
+
           
 - Challenge: Creating dynamic measures for advanced insights
-- Solution : Implemented DAX calculations for KPIs and filters.
+- > Solution : Implemented DAX calculations for KPIs and filters.
 
 ## Future Improvements 
 
