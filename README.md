@@ -67,15 +67,15 @@ This dashboard supports various stakeholders:
 
 Challenge: Handling inconsistent and missing data.
 Solution - Used Power Query for data cleaning and imputation.
-         
+          
 Challenge: Creating dynamic measures for advanced insights.
 Solution - Implemented DAX calculations for KPIs and filters.
 
 ## Future Improvements 
 
--> Integrate real-time data for live updates.
--> Expand geographic analysis with more granular filters.
--> Add predictive analytics for sales forecasting.
+- Integrate real-time data for live updates.
+-  Expand geographic analysis with more granular filters.
+-  Add predictive analytics for sales forecasting.
 
 
 ## Technology Used
