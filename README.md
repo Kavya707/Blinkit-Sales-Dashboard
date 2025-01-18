@@ -57,19 +57,19 @@ The dashboard includes:
 
 This dashboard supports various stakeholders:
 
-Sales Managers: Identify underperforming outlets and optimize sales strategies.
+- Sales Managers: Identify underperforming outlets and optimize sales strategies.
 
-Marketing Teams: Analyze customer preferences and design targeted campaigns.
+- Marketing Teams: Analyze customer preferences and design targeted campaigns.
 
-Executives: Assess outlet performance and make strategic business decisions.
+- Executives: Assess outlet performance and make strategic business decisions.
 
 # Challenges Faced and Solutions
 
 Challenge: Handling inconsistent and missing data.
-         Solution - Used Power Query for data cleaning and imputation.
+Solution - Used Power Query for data cleaning and imputation.
          
 Challenge: Creating dynamic measures for advanced insights.
-        Solution - Implemented DAX calculations for KPIs and filters.
+Solution - Implemented DAX calculations for KPIs and filters.
 
 ## Future Improvements 
 
