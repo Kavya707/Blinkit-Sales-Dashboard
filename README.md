@@ -29,7 +29,7 @@ It addresses the following areas:
 
 ## Dashboard Overview
 
-![image](https://github.com/user-attachments/assets/6efd1214-dae8-46a0-afc1-b11a7661210d)
+![Screenshot (542)](https://github.com/user-attachments/assets/044a9bb4-54a0-45c7-989b-332b271bc666)
 
 The dashboard includes:
 
