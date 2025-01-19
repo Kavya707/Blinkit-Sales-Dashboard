@@ -1,4 +1,4 @@
-# Blinkit Sales Analysis (Interactive Dashbard Created Using Power Bi)
+# Blinkit Sales Analysis 
 
 This project involves the creation of an interactive dashboard to analyze Blinkit's sales performance. By leveraging Power BI, the dashboard provides actionable insights into key business metrics, empowering stakeholders to make informed decisions and improve business operations.
 
@@ -29,7 +29,7 @@ It addresses the following areas:
 
 ## Dashboard Overview
 
-![Screenshot (540)](https://github.com/user-attachments/assets/ae742a52-8070-464e-ae7a-1c9a602d537a)
+![image](https://github.com/user-attachments/assets/6efd1214-dae8-46a0-afc1-b11a7661210d)
 
 The dashboard includes:
 
